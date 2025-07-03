@@ -10,4 +10,15 @@ Problem Statement:
          An Automated workflow that sends a form to the customers to get their query clarified. 
 How it works?
 
+          Customer would fill a form which contain(Email, Name, Phone NO, Query).
+          The appends the collected data into an Excel sheet.
+          n8n triggers the flow and checks the data to clarify the query.
+          It appends the solution to another Excel sheet.
+          Request is automatically sent via Email, etc...
+Effect:
+
+     Increased efficiency.
+     Reduced workload for customer care representatives.
+     Provides professional and appropriate responses to queries.
+     Keeps customers updated with the latest advertisements.
 
